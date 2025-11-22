@@ -18,7 +18,7 @@ Setiap pertemuan memiliki materi yang dijelaskan melalui Google Colab agar mudah
 | No | Pertemuan   | Materi                                 | Link         |
 |----|-------------|-----------------------------------------|--------------|
 | 1  | Pertemuan 1 | Pengenalan ERD & Dasar Perancangan      | (https://colab.research.google.com/drive/1nd1K9YadUjcE00Sg7z1vcDyGPzivy7Hz) |
-| 2  | Pertemuan 2 | Pengenalan Basis Data + DDL             | (link colab) |
+| 2  | Pertemuan 2 | Pengenalan Basis Data + DDL             | (https://colab.research.google.com/drive/1GBK2ljwiS3mH83aWVvqDOFgkuFcFsuB3) |
 | 3  | Pertemuan 3 | DML: Insert, Update, Delete             | (link colab) |
 | 4  | Pertemuan 4 | Query Dasar & Pencarian Data            | (link colab) |
 

@@ -1,4 +1,4 @@
-hu ho# 📘 Praktikum Basis Data — Dokumentasi SMK
+📘 Praktikum Basis Data — Dokumentasi SMK
 
 Dokumentasi ini berisi penjelasan singkat dan link materi praktikum Basis Data.  
 Setiap pertemuan memiliki materi yang dijelaskan melalui Google Colab agar mudah dipahami.
